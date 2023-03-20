@@ -2,3 +2,6 @@
 sftp.json
 settings.json
 zkracene.txt
+.idea/
+.idea
+.idea/*

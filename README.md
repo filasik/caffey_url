@@ -7,9 +7,16 @@ DEMO: https://caffey.cz
 
 ## Features
 
--   Open-source
--   No database
--   No dependencies
--   No tracking
--   No ads
--   No bullshit
+* Open-source
+* PWA
+* Custom domain
+* Custom URL
+* Custom title
+* Custom description
+* Custom favicon
+* Custom theme
+* No database
+* No dependencies
+* No tracking
+* No ads
+* No bullshit
